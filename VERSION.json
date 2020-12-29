@@ -1,4 +1,5 @@
 {
-  "full_version": "4.4.0~202012281403-7155-60d65d813~ubuntu20.04.1",
-  "version": "4.4.0~202012281403-7155-60d65d813"
+  "version": "4.4.0~202012292013-7156-cc9b1ea8a",
+  "full_version": "4.4.0~202012292013-7156-cc9b1ea8a~ubuntu20.04.1",
+  "changelog": "https://github.com/qbittorrent/qbittorrent/compare/60d65d813...cc9b1ea8a"
 }
