@@ -1,6 +1,6 @@
 {
-  "version": "4.4.0~202105090358-7297-f308cd392",
-  "full_version": "4.4.0~202105090358-7297-f308cd392~ubuntu20.04.1",
+  "version": "4.4.0~202105100354-7299-a7ac700fe",
+  "full_version": "4.4.0~202105100354-7299-a7ac700fe~ubuntu20.04.1",
   "vuetorrent_version": "0.10.0",
-  "changelog": "https://github.com/qbittorrent/qbittorrent/compare/511fa37c8...f308cd392"
+  "changelog": "https://github.com/qbittorrent/qbittorrent/compare/f308cd392...a7ac700fe"
 }
